@@ -19,3 +19,4 @@ t/apache/perl/testmodperl	script to test mod_perl operates OK
 t/apache/perl/testident		script to actually test ident within mod_perl
 t/apache/logs/.exists		Directory for the logfiles
 META.yml
+META.json                                Module JSON meta-data (added by MakeMaker)
